@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dark mode overrides for demo app -->
+    <color name="log_background">#FF1E1E1E</color>
+    <color name="log_text">#FFE0E0E0</color>
+</resources>

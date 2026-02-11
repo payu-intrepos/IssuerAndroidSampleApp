@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Same as sample app (Theme.Cdbank): application theme uses NoActionBar parent
+         so SDK activities (e.g. RegisterActivity) inherit it and setSupportActionBar() works -->
+    <style name="Theme.TridentityDemo" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/teal_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorOnSecondary">@color/black</item>
+    </style>
+    <style name="Theme.TridentityDemo.NoActionBar" parent="Theme.TridentityDemo">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>

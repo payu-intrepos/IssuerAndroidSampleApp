@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tridentity SDK Demo</string>
+    <string name="demo_title">Tridentity SDK Integration Demo</string>
+    <string name="hint_mobile">Mobile number</string>
+    <string name="hint_cif">CIF (for CIF-based registration)</string>
+    <string name="btn_config_sdk">1. Config SDK</string>
+    <string name="btn_register">2. Register</string>
+    <string name="btn_select_sim">2a. Select SIM</string>
+    <string name="btn_check_status">3. Check registration status</string>
+    <string name="btn_authenticate_txn">4. Authenticate transaction</string>
+    <string name="btn_txn_history">5. Transaction history</string>
+    <string name="msg_config_success">SDK configured successfully</string>
+    <string name="msg_config_error">Config error: %1$s</string>
+    <string name="msg_register_success">Registration success</string>
+    <string name="msg_register_error">Registration error: %1$s</string>
+    <string name="msg_status_success">Status: %1$s</string>
+    <string name="msg_status_error">Status error: %1$s</string>
+    <string name="msg_txn_success">Transaction updated</string>
+    <string name="msg_txn_error">Transaction error: %1$s</string>
+    <string name="msg_config_first">Configure SDK first (tap Config SDK)</string>
+    <string name="btn_show_offline_otp">6. Show Offline OTP</string>
+    <string name="btn_deregister">7. Deregister</string>
+    <string name="msg_deregister_success">Deregistration successful</string>
+    <string name="msg_deregister_error">Deregistration error: %1$s</string>
+</resources>
